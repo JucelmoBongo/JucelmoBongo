@@ -17,6 +17,4 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"alt="mysql" align="center">
 
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jucelmobongo&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 Estou sempre disposto a aprender, estou disposto a participar em projectos para colocar em pratica os meus conhecimentos e ajudar pessoas que estão começando na área.
