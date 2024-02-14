@@ -1,4 +1,5 @@
-### Olá 🤟
+###  Hello, I'm Jucelmo 🤟
+I'm a student of information and communication technology.
 
 
 
